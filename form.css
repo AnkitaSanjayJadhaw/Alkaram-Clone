@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+}
+
+body{
+    background-image: url(ai\ robot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+
+h1:hover{
+    color: rgb(6, 6, 209);
+    cursor: pointer;
+}
+form{
+    color: white;
+    margin-top: 80px;
+    margin-left: 20px;
+    font-size: 20px;
+
+}
+
+p{
+    padding: 8px;
+}
